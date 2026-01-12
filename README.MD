@@ -18,7 +18,7 @@ O objetivo desta etapa foi consolidar os pilares fundamentais da programação, 
 
 
 ## Como usar
-Com o Node.js instalado, siga os passos abaixo:
+Com o Node.js instalado, siga o passo abaixo:
 
 1. Abra um terminal na pasta dos exercícios e então digite:
 ```bash 
