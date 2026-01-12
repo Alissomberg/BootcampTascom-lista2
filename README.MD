@@ -18,7 +18,7 @@ O objetivo desta etapa foi consolidar os pilares fundamentais da programação, 
 
 
 ## Como usar
-Com o Node.js instalado, siga o passo abaixo:
+Com o Node.js instalado, siga os passos abaixo:
 
 1. Abra o terminal e clone o repositório utilizando:
 ```bash
